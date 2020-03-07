@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="core/src"/>
+	<classpathentry kind="src" path="Database/src"/>
+	<classpathentry kind="src" path="Forwarder/src"/>
+	<classpathentry kind="src" path="Receiver/src"/>
+	<classpathentry kind="lib" path="libs/opensmpp-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-configuration-1.7.jar"/>
+	<classpathentry kind="lib" path="libs/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/ucp-19.3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
